@@ -10,5 +10,4 @@ Mój projekt
 
 Linki do zrealizowanych programów:
 
-1. [Alorytm 1]()
-2. [Alorytm 2]()
+1. [Alorytm 1](https://github.com/GitHolo/Info/tree/main/Liczby%20Pierwsze)
