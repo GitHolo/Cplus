@@ -1,6 +1,6 @@
-# \GitHolo/Info
+# GitHolo/Info
 
-`Maksymilian Felczak 17.02.2022`
+`Maksymilian Felczak i Mikolaj Baran`
 
 ## Opis
 
