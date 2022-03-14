@@ -4,7 +4,7 @@
 
 ## Opis
 
-Mój projekt
+![Diagram](https://GitHolo/Info/Diagram.png
 
 ## Spis treści
 
