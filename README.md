@@ -6,4 +6,4 @@
 
 Linki do zrealizowanych programów:
 
-1. [Liczby Pierwsze](https://github.com/GitHolo/Info/tree/main/Liczby%20Pierwsze)
+1. [Liczby Pierwsze](https://github.com/GitHolo/Info/tree/main/LiczbyPierwsze)
