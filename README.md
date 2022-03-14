@@ -4,7 +4,7 @@
 
 ## Opis
 
-![Diagram](https://GitHolo/Info/Diagram.png
+![Diagram](https://GitHolo/Info/Diagram.png)
 
 ## Spis treści
 
