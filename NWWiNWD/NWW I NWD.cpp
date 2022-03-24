@@ -9,8 +9,7 @@ int main()
     cout << "Hello World!\n";
     cout << "Podaj dwie liczby\n";
     cin >>a>>b;
-    int c = a;
-    int d = b;
+    int iloczyn = a * b;
     while (a != b)
     {
         if (a <= b)
@@ -22,19 +21,7 @@ int main()
             a = a - b;
         }
     }
+    float nww = iloczyn / a;
     cout << "NWD = " << a << endl;
-    int iloczyn = c * d;
-    while (c != d)
-    {
-        if (c <= d)
-        {
-            d = d - c;
-        }
-        else
-        {
-            c = c - d;
-        }
-    }
-    float nww = iloczyn / c;
     cout << "NWW = " << nww;
 }
