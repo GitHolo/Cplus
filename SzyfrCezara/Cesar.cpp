@@ -49,16 +49,14 @@ int main()
 	string slowo;
 	int klucz;
 	char tab[100];
-	auto start = high_resolution_clock::now();
-	cout << "Podaj wyraz skladajacy sie z malych liter" << endl;
+	cout << "Podaj wyraz do zaszyfrowania" << endl;
 	cin >> tab;
 	slowo = tab;
 	cout << "Podaj klucz z przedzialu [-26..26]" << endl;
 	cin >> klucz;
+	auto start = high_resolution_clock::now();
 	Funkcja(klucz, tab, slowo);
-
 	auto stop = high_resolution_clock::now();
 	auto duration = duration_cast<microseconds>(stop - start);
-	cout << "\n Ilosc milisekund do wykonania zadania - ";
-	cout << duration.count() << endl;
+	cout << "\n Czas wykonania - " << duration.count() << " ms";
 }
