@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{889243a8-84d6-49a1-974a-5c6007a9c913}</ProjectGuid>
-    <RootNamespace>SzyfrCezara</RootNamespace>
+    <ProjectGuid>{204d823b-b317-4415-a649-8c7dd73d151e}</ProjectGuid>
+    <RootNamespace>Cesar</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="SzyfrCezara.cpp" />
+    <ClCompile Include="Cesar.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
