@@ -10,3 +10,4 @@ Linki do zrealizowanych programów:
 2. [NWW I NWD](https://github.com/GitHolo/Info/tree/main/NWWiNWD)
 3. [Szyfr Cezara](https://github.com/GitHolo/Info/tree/main/SzyfrCezara)
 4. [Kod Fibonacci](https://github.com/GitHolo/Info/tree/main/Fibonacii)
+5. [Szukanie Liczby Binarnej](https://github.com/GitHolo/Info/tree/main/BinarySearch)
