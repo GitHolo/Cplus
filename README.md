@@ -1,4 +1,4 @@
-# GitHolo/Info
+# C++
 
 `Maksymilian Felczak i Mikolaj Baran`
 
